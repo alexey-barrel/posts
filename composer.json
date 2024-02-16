@@ -1,10 +1,10 @@
 {
-    "name": "alexey/posts",
+    "name": "alexey_bav/posts",
     "description": "PHP Debugbar integration for Laravel",
     "license": "MIT",
     "authors": [
         {
-            "name": "alexey",
+            "name": "alexey_bav",
             "email": "alexey@gmail.com"
         }
     ],
