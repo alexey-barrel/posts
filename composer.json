@@ -15,11 +15,13 @@
         "psr-4": {
             
             "Alexey\\Posts\\": "src"
-        },
+        }
+    },
     "extra":{ 
         "laravel":  {
         "providers": [
             "Alexey\\Posts\\Providers\\PostsServiceProvider"
-        ]}
+        ]
+    }
     }
 }
